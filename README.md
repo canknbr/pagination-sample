@@ -6,4 +6,4 @@
 
 <!-- [Pagination-sample-link](https://random-person-sample.vercel.app/) -->
 
-![alt text](img/pagination.png)
+<!-- ![alt text](img/pagination.png) -->
