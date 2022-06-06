@@ -4,6 +4,6 @@
 
 ---
 
-<!-- [Pagination-sample-link](https://random-person-sample.vercel.app/) -->
+[Pagination-sample-link](https://pagination-sample.vercel.app/)
 
 ![alt text](img/pagination.png)
